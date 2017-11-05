@@ -1,0 +1,8 @@
+
+State Machine - |bomb|type
+Name type.101 type.100 type.001 type.000 type.011 
+type.000 0 0 0 0 0 
+type.001 0 0 1 1 0 
+type.011 0 0 0 1 1 
+type.100 0 1 0 1 0 
+type.101 1 0 0 1 0 
